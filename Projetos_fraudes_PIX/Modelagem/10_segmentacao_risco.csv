@@ -1,0 +1,9 @@
+Cluster_ID,Faixa_Etaria,Escolaridade,Faixa_Renda,Regiao,Qtd_Fraudes,Indice_Vulnerabilidade
+1,até 19 anos,Fundamental,até 2 SM,Nordeste,450,85
+2,20-29 anos,Médio,2-5 SM,Sudeste,320,70
+3,30-39 anos,Superior,acima de 5 SM,Sul,150,40
+4,40-49 anos,Médio,até 2 SM,Norte,280,65
+5,50-59 anos,Fundamental,até 2 SM,Centro-Oeste,200,75
+6,mais de 60 anos,Fundamental,até 2 SM,Nordeste,500,90
+7,20-29 anos,Superior,2-5 SM,Sudeste,180,50
+8,30-39 anos,Pós,acima de 5 SM,Sul,120,30
